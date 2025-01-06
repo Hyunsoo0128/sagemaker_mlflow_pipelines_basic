@@ -1,0 +1,12 @@
+#scikit-learn
+#xgboost==1.7.6
+#s3fs==0.4.2
+#sagemaker>=2.199.0,<3
+#pandas>=2.0.0
+#gevent
+#geventhttpclient
+#shap
+#matplotlib
+#fsspec
+mlflow==2.13.2
+sagemaker-mlflow==0.1.0
